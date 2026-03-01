@@ -1,0 +1,23 @@
+CASO DE ESTUDO: FARMASAÚDE
+
+Contexto e Problema
+
+A FarmaSaúde atua no mercado farmacêutico e de bem-estar há mais de 10 anos, com unidades físicas distribuídas no Nordeste do Brasil e, mais recentemente, com vendas online para todo o país. Além da venda de medicamentos e itens de higiene, também possui em suas lojas físicas serviços farmacêuticos diferenciados, como salas de vacinação e exames laboratoriais rápidos.
+
+O mercado farmacêutico demonstrou grande resiliência e segue em expansão. Muitas pessoas mudaram seus hábitos de consumo durante o período de isolamento, passando a priorizar o autocuidado, a prevenção e a manutenção da saúde de forma mais rigorosa. O CEO da FarmaSaúde tem uma grande preocupação sobre como a empresa irá capturar e fidelizar essa fatia crescente do mercado.
+
+Desde o início do ano passado, a FarmaSaúde iniciou um plano para acelerar a transformação digital da empresa e a estruturação dos dados dos clientes para melhorar sua jornada de compra. Com as análises realizadas, decidiram lançar um programa de fidelidade que permite identificar as compras dos clientes nas lojas físicas, canal onde possuem o maior volume de vendas e interação direta.
+
+O CEO é analítico e orientado a resultados, participa ativamente das transformações da empresa e orienta o time nos planejamentos estratégicos. Ele proporciona um ambiente com total autonomia para o time realizar as mudanças necessárias e acompanha mensalmente, em comitê os resultados das iniciativas. As expectativas sobre o retorno dessas transformações são altas.
+
+Como o time de dados da FarmaSaúde está focado em outras frentes prioritárias, o CEO nos enviou algumas dúvidas estratégicas, pedindo nossa ajuda para respondê-las:
+
+Questões Estratégicas
+
+1. Previsão da demanda - Queremos fazer o planejamento da venda de produtos para Adultos nos próximos seis meses. Qual a previsão de venda diária para essa categoria?
+
+2. Segmentação de clientes - Sabemos que nem todos os clientes são iguais, alguns dão mais retorno para a companhia do que outros. Podemos segregar os clientes em grupos? Há algum mais rentável para a empresa?
+
+3. Análise de churn e retenção de clientes - Uma das prioridades para o próximo ano é aumentar a retenção dos clientes. Na companhia, consideramos o cliente inativo quando ele não transaciona por mais de 90 dias. Qual seria o grupo alvo de clientes para aumentar a retenção, isto é, qual o grupo de clientes que têm mais chance de churn?
+
+4. Recomendação de produtos - Com base no comportamento e características do cliente, quais outros produtos além dos que ele já compra podemos oferecer?
