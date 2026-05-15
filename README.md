@@ -1,6 +1,6 @@
 ================================================================================
-                        END TO END DATA SOLUTIONS PORTFOLIO
-                           João H. Camargo
+
+END TO END DATA SOLUTIONS PORTFOLIO by João Camargo
 ================================================================================
 
 Hi there! I'm João, a Data Analyst with a background in Supply Chain Operations
