@@ -1,0 +1,23 @@
+# Ignorar ambientes virtuais (pastas onde ficam instaladas as bibliotecas)
+.venv/
+venv/
+env/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar os dados reais (você não quer subir gigabytes de dados para o GitHub)
+# Mas vamos manter a estrutura das pastas
+data/raw/*
+!data/.gitkeep
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar arquivos ocultos do sistema (Mac e Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar checkpoints de Jupyter Notebooks
+.ipynb_checkpoints/
